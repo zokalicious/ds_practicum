@@ -7,25 +7,25 @@
 
 ## Результаты
 
-- Рассмотреты датасеты `train`, `test`, `full`
-- Обработаны пропуски и аномалии в данных
-- Построены графики концентраций веществ на различных этапах технологического процесса
-- Показано, что технология однозначно приводит к повышению концентрации золота в конечном продукте
-- Создан скорер sMAPE для обучения моделей
-- Подготовлены отскалированные фичи
-- Реализован RandomizesSearch лучших гиперпараметров для DecisionTreeRegressor, RandomForestRegressor, MLPRegressor, CatBoostRegressor, GradientBoostingRegressor
-- Выполнена кросс-валидация для LinearRegression, DecisionTreeRegressor, RandomForestRegressor, MLPRegressor, CatBoostRegresssor, GradientBoostingRegressor
-- Проверена адекватность моделей с помощью DummyRegressor, выбраны лучшие модели
+1. Рассмотреты датасеты `train`, `test`, `full`
+0. Обработаны пропуски и аномалии в данных
+0. Построены графики концентраций веществ на различных этапах технологического процесса
+0. Показано, что технология однозначно приводит к повышению концентрации золота в конечном продукте
+0. Создан скорер sMAPE для обучения моделей
+0. Подготовлены отскалированные фичи
+0. Реализован RandomizesSearch лучших гиперпараметров для DecisionTreeRegressor, RandomForestRegressor, MLPRegressor, CatBoostRegressor, GradientBoostingRegressor
+0. Выполнена кросс-валидация для LinearRegression, DecisionTreeRegressor, RandomForestRegressor, MLPRegressor, CatBoostRegresssor, GradientBoostingRegressor
+0. Проверена адекватность моделей с помощью DummyRegressor, выбраны лучшие модели
 
 ## TO-DO
-- Нормализация skewed распределений
-- Более качественные гистограммы и другие графики
-- FeatureSelector?
+1. Нормализация skewed распределений
+0. Более качественные гистограммы и другие графики
+0. FeatureSelector?
 
 ## Используемые библиотеки
-*pandas*
-*numpy*
-*scipy*
-*matplotlib*
-*scikit-learn*
-*catboost*
+- *pandas*
+- *numpy*
+- *scipy*
+- *matplotlib*
+- *scikit-learn*
+- *catboost*
