@@ -10,15 +10,15 @@
 
 ## Результаты
 
-- Протестированы два подхода к созданию фич для NLP: TF-IDF, BERT эмбеддинг
-- Обучены модели с применением рандом-серча параметров и кросс-валидации
-- Лучшей моделью показала себя CatBoostClassifier + Bert Embedding с тестовым скором 0.88
+1. Протестированы два подхода к созданию фич для NLP: TF-IDF, BERT эмбеддинг
+0. Обучены модели с применением рандом-серча параметров и кросс-валидации
+0. Лучшей моделью показала себя CatBoostClassifier + Bert Embedding с тестовым скором 0.88
 
 ## Используемые библиотеки
-*pandas*
-*numpy*
-*scikit-learn*
-*catboost*
-*transformers (BERT)*
-*pytorch*
-*re*
+- *pandas*
+- *numpy*
+- *scikit-learn*
+- *catboost*
+- *transformers (BERT)*
+- *pytorch*
+- *re*
