@@ -17,4 +17,4 @@
 | [Защита данных клиентов страховой компании](personal_data_protection) | Разработка модели анонимизации персональных данных | *pandas, numpy, scikit-learn* |
 | [Построение модели определения стоимости автомобиля](car_price) | Разработка системы рекомендации стоимости автомобиля на основе его описания | *pandas, numpy, scikit-learn, catboost, lightgbm* |
 | [Прогнозирование количества заказов такси на следующий час](taxi_predictions) | Разработка системы предсказания объема заказа | *pandas, numpy, scikit-learn, catboost* |
-| [Обучение модели классификации комментариев](taxi_predictions) | Определение токсичности комментарии | *pandas, numpy, scikit-learn, catboost, BERT, pytorch, re, nltk* |
+| [Обучение модели классификации комментариев](taxi_predictions) | Определение токсичности комментариев | *pandas, numpy, scikit-learn, catboost, BERT, pytorch, re, nltk* |
